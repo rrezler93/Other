@@ -75,4 +75,5 @@ while True:
         break
 
     else:
+        # Error handler
         print("Invalid option. Please choose again.")
