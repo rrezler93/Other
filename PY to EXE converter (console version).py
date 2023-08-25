@@ -16,5 +16,10 @@ else:
         "--clean",
         "--distpath={}".format(os.path.dirname(py_file)),
 
+# - '--onefile': Specifies that the output should be a single executable file.
+# - '--name={}': Sets the name of the output executable to the base name of the input script (without the file extension).
+# - '--clean': Instructs PyInstaller to clean up any temporary files and folders after the conversion.
+# - '--distpath={}': Specifies the directory where the output executable should be saved.
+
     ])
     print("Conversion complete!")
