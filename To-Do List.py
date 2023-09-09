@@ -21,7 +21,6 @@ def load_from_file():
         # If the file doesn't exist, start with an empty list
         pass
 
-
 # Load the to-do list from the file at startup
 load_from_file()
 
