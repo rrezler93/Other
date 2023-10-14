@@ -1,3 +1,5 @@
+# Author: Radoslaw Rezler 
+
 # Simple To-Do List Application with File Storage
 
 # Initialize the to-do list
